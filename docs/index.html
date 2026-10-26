@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WattGenIndex — Home Backup Generator Wattage, 30A/50A Transfer Switch & Fuel Calculator (2026)</title>
+  <meta name="description" content="Calculate exact home backup generator running watts, central A/C starting surge (LRA), 30A/50A transfer switch wire gauge, and propane/gasoline consumption for Westinghouse, Honda, Duromax, Generac, and Champion generators.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/generator-watt-index/">
+  <link rel="alternate" type="application/rss+xml" title="WattGenIndex RSS Feed" href="https://hanifsalman11.github.io/generator-watt-index/rss.xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-zinc-950 text-zinc-100 min-h-screen flex flex-col">
+  <header class="border-b border-zinc-800 bg-zinc-900/80 sticky top-0 z-30 backdrop-blur">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="text-lg font-black text-white flex items-center gap-2">
+        <span class="bg-amber-500 text-zinc-950 px-2 py-0.5 rounded font-black">WATT</span>GenIndex
+      </div>
+      <a href="https://www.amazon.com/s?k=Tri%2BFuel%2BDual%2BFuel%2BHome%2BBackup%2BGenerator%2B50%2BAmp%2BTransfer%2BSwitch%2BKit&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-amber-500 hover:bg-amber-400 text-zinc-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop Backup Generators & Transfer Switches on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-12 flex-1 w-full">
+    <div class="text-center max-w-2xl mx-auto mb-10">
+      <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight">Home Backup Generator Wattage, Transfer Switch & Fuel Database</h1>
+      <p class="text-zinc-400 mt-3 text-base sm:text-lg">Select your generator model or household backup scenario below to calculate central A/C starting surge (LRA), 30A/50A inlet cord gauge, and 24-hour gas/propane consumption.</p>
+      <div class="mt-6">
+        <input id="filterInput" type="text" placeholder="Search generator or scenario (e.g. Westinghouse WGen9500DF, Honda EU7000iS, Duromax, 3-Ton AC, 50 Amp...)" class="w-full bg-zinc-900 border border-zinc-700 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-amber-500">
+      </div>
+    </div>
+
+    <div id="genGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <a href="westinghouse-igen4500df-dual-fuel-inverter-wattage-transfer-switch-calculator.html" class="block bg-zinc-900 border border-zinc-800 hover:border-amber-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-amber-500 text-zinc-950 px-2.5 py-0.5 rounded">3,700W Run / 4,500W Peak</span>
+            <span class="text-xs text-zinc-400">30A Transfer</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-amber-400 transition">Westinghouse iGen4500DF Dual-Fuel Inverter</h2>
+          <p class="text-xs text-zinc-400 mt-2 line-clamp-2">Calculate exact running watts (3,700W gas / 3,330W propane), AC starting surge LRA, 30A transfer switch wire size (10/3 AWG (30-Amp 120V Heavy-Duty Cord)), and fuel runtime for Westinghouse iGen4500DF Dual-Fuel Inverter.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-amber-400">Calculate Surge Watts & Fuel Burn →</span>
+        </a>
+        <a href="westinghouse-wgen11500tfc-tri-fuel-w-co-sensor-wattage-transfer-switch-calculator.html" class="block bg-zinc-900 border border-zinc-800 hover:border-amber-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-amber-500 text-zinc-950 px-2.5 py-0.5 rounded">9,500W Run / 14,500W Peak</span>
+            <span class="text-xs text-zinc-400">50A Transfer</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-amber-400 transition">Westinghouse WGen11500TFc Tri-Fuel w/ CO Sensor</h2>
+          <p class="text-xs text-zinc-400 mt-2 line-clamp-2">Calculate exact running watts (9,500W gas / 8,550W propane), AC starting surge LRA, 50A transfer switch wire size (6/3 + 8/1 AWG (50-Amp Heavy-Duty STW Pure Copper Cord)), and fuel runtime for Westinghouse WGen11500TFc Tri-Fuel w/ CO Sensor.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-amber-400">Calculate Surge Watts & Fuel Burn →</span>
+        </a>
+        <a href="westinghouse-wgen9500df-dual-fuel-home-backup-wattage-transfer-switch-calculator.html" class="block bg-zinc-900 border border-zinc-800 hover:border-amber-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-amber-500 text-zinc-950 px-2.5 py-0.5 rounded">7,500W Run / 9,500W Peak</span>
+            <span class="text-xs text-zinc-400">30A Transfer</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-amber-400 transition">Westinghouse WGen9500DF Dual-Fuel Home Backup</h2>
+          <p class="text-xs text-zinc-400 mt-2 line-clamp-2">Calculate exact running watts (7,500W gas / 6,750W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Westinghouse WGen9500DF Dual-Fuel Home Backup.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-amber-400">Calculate Surge Watts & Fuel Burn →</span>
+        </a></div>
+  </main>
+
+  <footer class="border-t border-zinc-800 py-8 text-center text-xs text-zinc-500">
+    <p>© 2026 WattGenIndex. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const filterInput = document.getElementById('filterInput');
+    const cards = Array.from(document.getElementById('genGrid').children);
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
+      cards.forEach(c => {
+        c.style.display = c.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>

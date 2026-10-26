@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "generator_name": "Westinghouse WGen9500DF Dual-Fuel Home Backup",
+    "slug": "westinghouse-wgen9500df-dual-fuel-home-backup-wattage-transfer-switch-calculator",
+    "title": "Westinghouse WGen9500DF Dual-Fuel Home Backup Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,500W gas / 6,750W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Westinghouse WGen9500DF Dual-Fuel Home Backup.",
+    "run_w": 7500,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-10-26"
+  },
+  {
+    "generator_name": "Westinghouse WGen11500TFc Tri-Fuel w/ CO Sensor",
+    "slug": "westinghouse-wgen11500tfc-tri-fuel-w-co-sensor-wattage-transfer-switch-calculator",
+    "title": "Westinghouse WGen11500TFc Tri-Fuel w/ CO Sensor Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (9,500W gas / 8,550W propane), AC starting surge LRA, 50A transfer switch wire size (6/3 + 8/1 AWG (50-Amp Heavy-Duty STW Pure Copper Cord)), and fuel runtime for Westinghouse WGen11500TFc Tri-Fuel w/ CO Sensor.",
+    "run_w": 9500,
+    "peak_w": 14500,
+    "ts_amps": 50,
+    "date": "2026-10-26"
+  },
+  {
+    "generator_name": "Westinghouse iGen4500DF Dual-Fuel Inverter",
+    "slug": "westinghouse-igen4500df-dual-fuel-inverter-wattage-transfer-switch-calculator",
+    "title": "Westinghouse iGen4500DF Dual-Fuel Inverter Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (3,700W gas / 3,330W propane), AC starting surge LRA, 30A transfer switch wire size (10/3 AWG (30-Amp 120V Heavy-Duty Cord)), and fuel runtime for Westinghouse iGen4500DF Dual-Fuel Inverter.",
+    "run_w": 3700,
+    "peak_w": 4500,
+    "ts_amps": 30,
+    "date": "2026-10-26"
+  }
+]
