@@ -28,5 +28,35 @@
     "peak_w": 4500,
     "ts_amps": 30,
     "date": "2026-10-26"
+  },
+  {
+    "generator_name": "Honda EU7000iS Super Quiet Fuel-Injected Inverter",
+    "slug": "honda-eu7000is-super-quiet-fuel-injected-inverter-wattage-transfer-switch-calculator",
+    "title": "Honda EU7000iS Super Quiet Fuel-Injected Inverter Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (5,500W gas / 4,950W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Honda EU7000iS Super Quiet Fuel-Injected Inverter.",
+    "run_w": 5500,
+    "peak_w": 7000,
+    "ts_amps": 30,
+    "date": "2026-10-26"
+  },
+  {
+    "generator_name": "Honda EU2200i Companion Parallel Inverter",
+    "slug": "honda-eu2200i-companion-parallel-inverter-wattage-transfer-switch-calculator",
+    "title": "Honda EU2200i Companion Parallel Inverter Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (1,800W gas / 1,620W propane), AC starting surge LRA, 30A transfer switch wire size (10/3 AWG (30-Amp 120V Heavy-Duty Cord)), and fuel runtime for Honda EU2200i Companion Parallel Inverter.",
+    "run_w": 1800,
+    "peak_w": 2200,
+    "ts_amps": 30,
+    "date": "2026-10-26"
+  },
+  {
+    "generator_name": "Duromax XP13000HXT 13,000W Tri-Fuel Beast",
+    "slug": "duromax-xp13000hxt-13000w-tri-fuel-beast-wattage-transfer-switch-calculator",
+    "title": "Duromax XP13000HXT 13,000W Tri-Fuel Beast Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (10,500W gas / 9,450W propane), AC starting surge LRA, 50A transfer switch wire size (6/3 + 8/1 AWG (50-Amp Heavy-Duty STW Pure Copper Cord)), and fuel runtime for Duromax XP13000HXT 13,000W Tri-Fuel Beast.",
+    "run_w": 10500,
+    "peak_w": 13000,
+    "ts_amps": 50,
+    "date": "2026-10-26"
   }
 ]
