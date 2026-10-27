@@ -118,5 +118,35 @@
     "peak_w": 10000,
     "ts_amps": 30,
     "date": "2026-10-27"
+  },
+  {
+    "generator_name": "Generac Guardian 22kW Whole-House Standby",
+    "slug": "generac-guardian-22kw-whole-house-standby-wattage-transfer-switch-calculator",
+    "title": "Generac Guardian 22kW Whole-House Standby Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (19,500W gas / 17,550W propane), AC starting surge LRA, 50A transfer switch wire size (6/3 + 8/1 AWG (50-Amp Heavy-Duty STW Pure Copper Cord)), and fuel runtime for Generac Guardian 22kW Whole-House Standby.",
+    "run_w": 19500,
+    "peak_w": 22000,
+    "ts_amps": 50,
+    "date": "2026-10-27"
+  },
+  {
+    "generator_name": "Generac Guardian 18kW Home Standby Generator",
+    "slug": "generac-guardian-18kw-home-standby-generator-wattage-transfer-switch-calculator",
+    "title": "Generac Guardian 18kW Home Standby Generator Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (17,000W gas / 15,300W propane), AC starting surge LRA, 50A transfer switch wire size (6/3 + 8/1 AWG (50-Amp Heavy-Duty STW Pure Copper Cord)), and fuel runtime for Generac Guardian 18kW Home Standby Generator.",
+    "run_w": 17000,
+    "peak_w": 18000,
+    "ts_amps": 50,
+    "date": "2026-10-27"
+  },
+  {
+    "generator_name": "Kohler 20RCA 20kW Air-Cooled Standby Generator",
+    "slug": "kohler-20rca-20kw-air-cooled-standby-generator-wattage-transfer-switch-calculator",
+    "title": "Kohler 20RCA 20kW Air-Cooled Standby Generator Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (18,000W gas / 16,200W propane), AC starting surge LRA, 50A transfer switch wire size (6/3 + 8/1 AWG (50-Amp Heavy-Duty STW Pure Copper Cord)), and fuel runtime for Kohler 20RCA 20kW Air-Cooled Standby Generator.",
+    "run_w": 18000,
+    "peak_w": 20000,
+    "ts_amps": 50,
+    "date": "2026-10-27"
   }
 ]
