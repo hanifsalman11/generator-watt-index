@@ -58,5 +58,35 @@
     "peak_w": 13000,
     "ts_amps": 50,
     "date": "2026-10-26"
+  },
+  {
+    "generator_name": "Duromax XP9000iH 9,000W Dual-Fuel Inverter",
+    "slug": "duromax-xp9000ih-9000w-dual-fuel-inverter-wattage-transfer-switch-calculator",
+    "title": "Duromax XP9000iH 9,000W Dual-Fuel Inverter Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,600W gas / 6,840W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Duromax XP9000iH 9,000W Dual-Fuel Inverter.",
+    "run_w": 7600,
+    "peak_w": 9000,
+    "ts_amps": 30,
+    "date": "2026-10-27"
+  },
+  {
+    "generator_name": "Champion 201176 9,000W Tri-Fuel Open Frame Inverter",
+    "slug": "champion-201176-9000w-tri-fuel-open-frame-inverter-wattage-transfer-switch-calculator",
+    "title": "Champion 201176 9,000W Tri-Fuel Open Frame Inverter Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,250W gas / 6,520W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Champion 201176 9,000W Tri-Fuel Open Frame Inverter.",
+    "run_w": 7250,
+    "peak_w": 9000,
+    "ts_amps": 30,
+    "date": "2026-10-27"
+  },
+  {
+    "generator_name": "Champion 100520 8,750W Dual-Fuel Inverter",
+    "slug": "champion-100520-8750w-dual-fuel-inverter-wattage-transfer-switch-calculator",
+    "title": "Champion 100520 8,750W Dual-Fuel Inverter Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,000W gas / 6,300W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Champion 100520 8,750W Dual-Fuel Inverter.",
+    "run_w": 7000,
+    "peak_w": 8750,
+    "ts_amps": 30,
+    "date": "2026-10-27"
   }
 ]

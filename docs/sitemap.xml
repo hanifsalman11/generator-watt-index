@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hanifsalman11.github.io/generator-watt-index/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -39,6 +39,24 @@
   <url>
     <loc>https://hanifsalman11.github.io/generator-watt-index/duromax-xp13000hxt-13000w-tri-fuel-beast-wattage-transfer-switch-calculator.html</loc>
     <lastmod>2026-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/generator-watt-index/duromax-xp9000ih-9000w-dual-fuel-inverter-wattage-transfer-switch-calculator.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/generator-watt-index/champion-201176-9000w-tri-fuel-open-frame-inverter-wattage-transfer-switch-calculator.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/generator-watt-index/champion-100520-8750w-dual-fuel-inverter-wattage-transfer-switch-calculator.html</loc>
+    <lastmod>2026-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
