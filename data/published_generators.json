@@ -208,5 +208,35 @@
     "peak_w": 12000,
     "ts_amps": 50,
     "date": "2026-10-28"
+  },
+  {
+    "generator_name": "A-iPower GXS7100iRD 7,100W Dual-Fuel Inverter",
+    "slug": "a-ipower-gxs7100ird-7100w-dual-fuel-inverter-wattage-transfer-switch-calculator",
+    "title": "A-iPower GXS7100iRD 7,100W Dual-Fuel Inverter Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (5,700W gas / 5,130W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for A-iPower GXS7100iRD 7,100W Dual-Fuel Inverter.",
+    "run_w": 5700,
+    "peak_w": 7100,
+    "ts_amps": 30,
+    "date": "2026-10-28"
+  },
+  {
+    "generator_name": "Briggs & Stratton Q6500 QuietPower Series Inverter",
+    "slug": "briggs-stratton-q6500-quietpower-series-inverter-wattage-transfer-switch-calculator",
+    "title": "Briggs & Stratton Q6500 QuietPower Series Inverter Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (5,000W gas / 4,500W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Briggs & Stratton Q6500 QuietPower Series Inverter.",
+    "run_w": 5000,
+    "peak_w": 6500,
+    "ts_amps": 30,
+    "date": "2026-10-28"
+  },
+  {
+    "generator_name": "DeWalt DXGNR8000 8,000W Jobsite & Home Backup",
+    "slug": "dewalt-dxgnr8000-8000w-jobsite-home-backup-wattage-transfer-switch-calculator",
+    "title": "DeWalt DXGNR8000 8,000W Jobsite & Home Backup Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (8,000W gas / 7,200W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for DeWalt DXGNR8000 8,000W Jobsite & Home Backup.",
+    "run_w": 8000,
+    "peak_w": 10000,
+    "ts_amps": 30,
+    "date": "2026-10-28"
   }
 ]
