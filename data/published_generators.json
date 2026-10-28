@@ -178,5 +178,35 @@
     "peak_w": 6800,
     "ts_amps": 30,
     "date": "2026-10-28"
+  },
+  {
+    "generator_name": "Genmax GM9000iED 9,000W Dual-Fuel Low-THD Inverter",
+    "slug": "genmax-gm9000ied-9000w-dual-fuel-low-thd-inverter-wattage-transfer-switch-calculator",
+    "title": "Genmax GM9000iED 9,000W Dual-Fuel Low-THD Inverter Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,200W gas / 6,480W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Genmax GM9000iED 9,000W Dual-Fuel Low-THD Inverter.",
+    "run_w": 7200,
+    "peak_w": 9000,
+    "ts_amps": 30,
+    "date": "2026-10-28"
+  },
+  {
+    "generator_name": "Genmax GM10500iETC 10,500W Tri-Fuel Inverter",
+    "slug": "genmax-gm10500ietc-10500w-tri-fuel-inverter-wattage-transfer-switch-calculator",
+    "title": "Genmax GM10500iETC 10,500W Tri-Fuel Inverter Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (8,500W gas / 7,650W propane), AC starting surge LRA, 50A transfer switch wire size (6/3 + 8/1 AWG (50-Amp Heavy-Duty STW Pure Copper Cord)), and fuel runtime for Genmax GM10500iETC 10,500W Tri-Fuel Inverter.",
+    "run_w": 8500,
+    "peak_w": 10500,
+    "ts_amps": 50,
+    "date": "2026-10-28"
+  },
+  {
+    "generator_name": "Pulsar G12KBN 12,000W Dual-Fuel Home Backup",
+    "slug": "pulsar-g12kbn-12000w-dual-fuel-home-backup-wattage-transfer-switch-calculator",
+    "title": "Pulsar G12KBN 12,000W Dual-Fuel Home Backup Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (9,500W gas / 8,550W propane), AC starting surge LRA, 50A transfer switch wire size (6/3 + 8/1 AWG (50-Amp Heavy-Duty STW Pure Copper Cord)), and fuel runtime for Pulsar G12KBN 12,000W Dual-Fuel Home Backup.",
+    "run_w": 9500,
+    "peak_w": 12000,
+    "ts_amps": 50,
+    "date": "2026-10-28"
   }
 ]
