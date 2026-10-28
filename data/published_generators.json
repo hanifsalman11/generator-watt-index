@@ -148,5 +148,35 @@
     "peak_w": 20000,
     "ts_amps": 50,
     "date": "2026-10-27"
+  },
+  {
+    "generator_name": "Firman T07571 / T07573 7,500W Tri-Fuel Portable",
+    "slug": "firman-t07571-t07573-7500w-tri-fuel-portable-wattage-transfer-switch-calculator",
+    "title": "Firman T07571 / T07573 7,500W Tri-Fuel Portable Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,500W gas / 6,750W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Firman T07571 / T07573 7,500W Tri-Fuel Portable.",
+    "run_w": 7500,
+    "peak_w": 9400,
+    "ts_amps": 30,
+    "date": "2026-10-28"
+  },
+  {
+    "generator_name": "Firman WH03242 3,200W Dual-Fuel RV Inverter",
+    "slug": "firman-wh03242-3200w-dual-fuel-rv-inverter-wattage-transfer-switch-calculator",
+    "title": "Firman WH03242 3,200W Dual-Fuel RV Inverter Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (3,200W gas / 2,880W propane), AC starting surge LRA, 30A transfer switch wire size (10/3 AWG (30-Amp 120V Heavy-Duty Cord)), and fuel runtime for Firman WH03242 3,200W Dual-Fuel RV Inverter.",
+    "run_w": 3200,
+    "peak_w": 4000,
+    "ts_amps": 30,
+    "date": "2026-10-28"
+  },
+  {
+    "generator_name": "WEN DF680ix 6,800W Dual-Fuel 240V RV/Home Inverter",
+    "slug": "wen-df680ix-6800w-dual-fuel-240v-rvhome-inverter-wattage-transfer-switch-calculator",
+    "title": "WEN DF680ix 6,800W Dual-Fuel 240V RV/Home Inverter Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (5,100W gas / 4,590W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for WEN DF680ix 6,800W Dual-Fuel 240V RV/Home Inverter.",
+    "run_w": 5100,
+    "peak_w": 6800,
+    "ts_amps": 30,
+    "date": "2026-10-28"
   }
 ]
