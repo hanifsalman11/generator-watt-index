@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/generator-watt-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>50-Amp CS6364 / SS2-50 Power Inlet & Interlock Sizing Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/generator-watt-index/50-amp-cs6364-ss2-50-power-inlet-interlock-sizing-wattage-transfer-switch-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/generator-watt-index/50-amp-cs6364-ss2-50-power-inlet-interlock-sizing-wattage-transfer-switch-calculator.html</guid>
+      <description>Calculate exact running watts (9,600W gas / 8,640W propane), AC starting surge LRA, 50A transfer switch wire size (6/3 + 8/1 AWG (50-Amp Heavy-Duty STW Pure Copper Cord)), and fuel runtime for 50-Amp CS6364 / SS2-50 Power Inlet & Interlock Sizing.</description>
+    </item>
+    <item>
+      <title>Submersible Deep Well Pump + Sump Pump + Fridge Backup Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/generator-watt-index/submersible-deep-well-pump-sump-pump-fridge-backup-wattage-transfer-switch-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/generator-watt-index/submersible-deep-well-pump-sump-pump-fridge-backup-wattage-transfer-switch-calculator.html</guid>
+      <description>Calculate exact running watts (5,500W gas / 4,950W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Submersible Deep Well Pump + Sump Pump + Fridge Backup.</description>
+    </item>
+    <item>
+      <title>30-Amp Travel Trailer 15,000 BTU AC Inverter Sizing Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/generator-watt-index/30-amp-travel-trailer-15000-btu-ac-inverter-sizing-wattage-transfer-switch-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/generator-watt-index/30-amp-travel-trailer-15000-btu-ac-inverter-sizing-wattage-transfer-switch-calculator.html</guid>
+      <description>Calculate exact running watts (3,500W gas / 3,150W propane), AC starting surge LRA, 30A transfer switch wire size (10/3 AWG (30-Amp 120V Heavy-Duty Cord)), and fuel runtime for 30-Amp Travel Trailer 15,000 BTU AC Inverter Sizing.</description>
+    </item>
+    <item>
       <title>50-Amp RV Fifth-Wheel Dual-AC Inverter Sizing Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/generator-watt-index/50-amp-rv-fifth-wheel-dual-ac-inverter-sizing-wattage-transfer-switch-calculator.html</link>
       <guid>https://hanifsalman11.github.io/generator-watt-index/50-amp-rv-fifth-wheel-dual-ac-inverter-sizing-wattage-transfer-switch-calculator.html</guid>

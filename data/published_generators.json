@@ -268,5 +268,35 @@
     "peak_w": 7000,
     "ts_amps": 30,
     "date": "2026-10-29"
+  },
+  {
+    "generator_name": "30-Amp Travel Trailer 15,000 BTU AC Inverter Sizing",
+    "slug": "30-amp-travel-trailer-15000-btu-ac-inverter-sizing-wattage-transfer-switch-calculator",
+    "title": "30-Amp Travel Trailer 15,000 BTU AC Inverter Sizing Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (3,500W gas / 3,150W propane), AC starting surge LRA, 30A transfer switch wire size (10/3 AWG (30-Amp 120V Heavy-Duty Cord)), and fuel runtime for 30-Amp Travel Trailer 15,000 BTU AC Inverter Sizing.",
+    "run_w": 3500,
+    "peak_w": 4500,
+    "ts_amps": 30,
+    "date": "2026-10-29"
+  },
+  {
+    "generator_name": "Submersible Deep Well Pump + Sump Pump + Fridge Backup",
+    "slug": "submersible-deep-well-pump-sump-pump-fridge-backup-wattage-transfer-switch-calculator",
+    "title": "Submersible Deep Well Pump + Sump Pump + Fridge Backup Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (5,500W gas / 4,950W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Submersible Deep Well Pump + Sump Pump + Fridge Backup.",
+    "run_w": 5500,
+    "peak_w": 7000,
+    "ts_amps": 30,
+    "date": "2026-10-29"
+  },
+  {
+    "generator_name": "50-Amp CS6364 / SS2-50 Power Inlet & Interlock Sizing",
+    "slug": "50-amp-cs6364-ss2-50-power-inlet-interlock-sizing-wattage-transfer-switch-calculator",
+    "title": "50-Amp CS6364 / SS2-50 Power Inlet & Interlock Sizing Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (9,600W gas / 8,640W propane), AC starting surge LRA, 50A transfer switch wire size (6/3 + 8/1 AWG (50-Amp Heavy-Duty STW Pure Copper Cord)), and fuel runtime for 50-Amp CS6364 / SS2-50 Power Inlet & Interlock Sizing.",
+    "run_w": 9600,
+    "peak_w": 12000,
+    "ts_amps": 50,
+    "date": "2026-10-29"
   }
 ]
