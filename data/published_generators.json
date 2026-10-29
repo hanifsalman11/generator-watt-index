@@ -238,5 +238,35 @@
     "peak_w": 10000,
     "ts_amps": 30,
     "date": "2026-10-28"
+  },
+  {
+    "generator_name": "3-Ton Central Air Conditioner + Well Pump Backup",
+    "slug": "3-ton-central-air-conditioner-well-pump-backup-wattage-transfer-switch-calculator",
+    "title": "3-Ton Central Air Conditioner + Well Pump Backup Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,500W gas / 6,750W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for 3-Ton Central Air Conditioner + Well Pump Backup.",
+    "run_w": 7500,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-10-29"
+  },
+  {
+    "generator_name": "4-Ton Central AC / Heat Pump + Whole-House Backup",
+    "slug": "4-ton-central-ac-heat-pump-whole-house-backup-wattage-transfer-switch-calculator",
+    "title": "4-Ton Central AC / Heat Pump + Whole-House Backup Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (9,500W gas / 8,550W propane), AC starting surge LRA, 50A transfer switch wire size (6/3 + 8/1 AWG (50-Amp Heavy-Duty STW Pure Copper Cord)), and fuel runtime for 4-Ton Central AC / Heat Pump + Whole-House Backup.",
+    "run_w": 9500,
+    "peak_w": 12500,
+    "ts_amps": 50,
+    "date": "2026-10-29"
+  },
+  {
+    "generator_name": "50-Amp RV Fifth-Wheel Dual-AC Inverter Sizing",
+    "slug": "50-amp-rv-fifth-wheel-dual-ac-inverter-sizing-wattage-transfer-switch-calculator",
+    "title": "50-Amp RV Fifth-Wheel Dual-AC Inverter Sizing Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (5,500W gas / 4,950W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for 50-Amp RV Fifth-Wheel Dual-AC Inverter Sizing.",
+    "run_w": 5500,
+    "peak_w": 7000,
+    "ts_amps": 30,
+    "date": "2026-10-29"
   }
 ]
