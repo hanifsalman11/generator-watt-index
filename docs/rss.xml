@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/generator-watt-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Refrigerator And Freezer Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/generator-watt-index/refrigerator-and-freezer-wattage-transfer-switch-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/generator-watt-index/refrigerator-and-freezer-wattage-transfer-switch-calculator.html</guid>
+      <description>Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Refrigerator And Freezer.</description>
+    </item>
+    <item>
+      <title>A Fridge Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/generator-watt-index/a-fridge-wattage-transfer-switch-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/generator-watt-index/a-fridge-wattage-transfer-switch-calculator.html</guid>
+      <description>Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for A Fridge.</description>
+    </item>
+    <item>
+      <title>A House Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/generator-watt-index/a-house-wattage-transfer-switch-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/generator-watt-index/a-house-wattage-transfer-switch-calculator.html</guid>
+      <description>Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for A House.</description>
+    </item>
+    <item>
       <title>50-Amp CS6364 / SS2-50 Power Inlet & Interlock Sizing Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/generator-watt-index/50-amp-cs6364-ss2-50-power-inlet-interlock-sizing-wattage-transfer-switch-calculator.html</link>
       <guid>https://hanifsalman11.github.io/generator-watt-index/50-amp-cs6364-ss2-50-power-inlet-interlock-sizing-wattage-transfer-switch-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/generator-watt-index/honda-eu7000is-super-quiet-fuel-injected-inverter-wattage-transfer-switch-calculator.html</link>
       <guid>https://hanifsalman11.github.io/generator-watt-index/honda-eu7000is-super-quiet-fuel-injected-inverter-wattage-transfer-switch-calculator.html</guid>
       <description>Calculate exact running watts (5,500W gas / 4,950W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Honda EU7000iS Super Quiet Fuel-Injected Inverter.</description>
-    </item>
-    <item>
-      <title>Westinghouse iGen4500DF Dual-Fuel Inverter Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/generator-watt-index/westinghouse-igen4500df-dual-fuel-inverter-wattage-transfer-switch-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/generator-watt-index/westinghouse-igen4500df-dual-fuel-inverter-wattage-transfer-switch-calculator.html</guid>
-      <description>Calculate exact running watts (3,700W gas / 3,330W propane), AC starting surge LRA, 30A transfer switch wire size (10/3 AWG (30-Amp 120V Heavy-Duty Cord)), and fuel runtime for Westinghouse iGen4500DF Dual-Fuel Inverter.</description>
-    </item>
-    <item>
-      <title>Westinghouse WGen11500TFc Tri-Fuel w/ CO Sensor Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/generator-watt-index/westinghouse-wgen11500tfc-tri-fuel-w-co-sensor-wattage-transfer-switch-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/generator-watt-index/westinghouse-wgen11500tfc-tri-fuel-w-co-sensor-wattage-transfer-switch-calculator.html</guid>
-      <description>Calculate exact running watts (9,500W gas / 8,550W propane), AC starting surge LRA, 50A transfer switch wire size (6/3 + 8/1 AWG (50-Amp Heavy-Duty STW Pure Copper Cord)), and fuel runtime for Westinghouse WGen11500TFc Tri-Fuel w/ CO Sensor.</description>
-    </item>
-    <item>
-      <title>Westinghouse WGen9500DF Dual-Fuel Home Backup Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/generator-watt-index/westinghouse-wgen9500df-dual-fuel-home-backup-wattage-transfer-switch-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/generator-watt-index/westinghouse-wgen9500df-dual-fuel-home-backup-wattage-transfer-switch-calculator.html</guid>
-      <description>Calculate exact running watts (7,500W gas / 6,750W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Westinghouse WGen9500DF Dual-Fuel Home Backup.</description>
     </item>
   </channel>
 </rss>

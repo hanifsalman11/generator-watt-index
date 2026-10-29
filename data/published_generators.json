@@ -298,5 +298,35 @@
     "peak_w": 12000,
     "ts_amps": 50,
     "date": "2026-10-29"
+  },
+  {
+    "generator_name": "A House",
+    "slug": "a-house-wattage-transfer-switch-calculator",
+    "title": "A House Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for A House.",
+    "run_w": 7400,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-10-29"
+  },
+  {
+    "generator_name": "A Fridge",
+    "slug": "a-fridge-wattage-transfer-switch-calculator",
+    "title": "A Fridge Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for A Fridge.",
+    "run_w": 7400,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-10-29"
+  },
+  {
+    "generator_name": "Refrigerator And Freezer",
+    "slug": "refrigerator-and-freezer-wattage-transfer-switch-calculator",
+    "title": "Refrigerator And Freezer Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Refrigerator And Freezer.",
+    "run_w": 7400,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-10-29"
   }
 ]
