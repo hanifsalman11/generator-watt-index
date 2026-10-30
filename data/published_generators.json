@@ -358,5 +358,35 @@
     "peak_w": 9500,
     "ts_amps": 30,
     "date": "2026-10-30"
+  },
+  {
+    "generator_name": "A Well Pump",
+    "slug": "a-well-pump-wattage-transfer-switch-calculator",
+    "title": "A Well Pump Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for A Well Pump.",
+    "run_w": 7400,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-10-30"
+  },
+  {
+    "generator_name": "Furnace And Refrigerator",
+    "slug": "furnace-and-refrigerator-wattage-transfer-switch-calculator",
+    "title": "Furnace And Refrigerator Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Furnace And Refrigerator.",
+    "run_w": 7400,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-10-30"
+  },
+  {
+    "generator_name": "A Welder",
+    "slug": "a-welder-wattage-transfer-switch-calculator",
+    "title": "A Welder Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for A Welder.",
+    "run_w": 7400,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-10-30"
   }
 ]
