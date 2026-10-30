@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/generator-watt-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>A Camper Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/generator-watt-index/a-camper-wattage-transfer-switch-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/generator-watt-index/a-camper-wattage-transfer-switch-calculator.html</guid>
+      <description>Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for A Camper.</description>
+    </item>
+    <item>
+      <title>Ac Unit Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/generator-watt-index/ac-unit-wattage-transfer-switch-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/generator-watt-index/ac-unit-wattage-transfer-switch-calculator.html</guid>
+      <description>Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Ac Unit.</description>
+    </item>
+    <item>
+      <title>Whole House Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/generator-watt-index/whole-house-wattage-transfer-switch-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/generator-watt-index/whole-house-wattage-transfer-switch-calculator.html</guid>
+      <description>Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Whole House.</description>
+    </item>
+    <item>
       <title>Refrigerator And Freezer Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/generator-watt-index/refrigerator-and-freezer-wattage-transfer-switch-calculator.html</link>
       <guid>https://hanifsalman11.github.io/generator-watt-index/refrigerator-and-freezer-wattage-transfer-switch-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/generator-watt-index/duromax-xp9000ih-9000w-dual-fuel-inverter-wattage-transfer-switch-calculator.html</link>
       <guid>https://hanifsalman11.github.io/generator-watt-index/duromax-xp9000ih-9000w-dual-fuel-inverter-wattage-transfer-switch-calculator.html</guid>
       <description>Calculate exact running watts (7,600W gas / 6,840W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Duromax XP9000iH 9,000W Dual-Fuel Inverter.</description>
-    </item>
-    <item>
-      <title>Duromax XP13000HXT 13,000W Tri-Fuel Beast Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/generator-watt-index/duromax-xp13000hxt-13000w-tri-fuel-beast-wattage-transfer-switch-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/generator-watt-index/duromax-xp13000hxt-13000w-tri-fuel-beast-wattage-transfer-switch-calculator.html</guid>
-      <description>Calculate exact running watts (10,500W gas / 9,450W propane), AC starting surge LRA, 50A transfer switch wire size (6/3 + 8/1 AWG (50-Amp Heavy-Duty STW Pure Copper Cord)), and fuel runtime for Duromax XP13000HXT 13,000W Tri-Fuel Beast.</description>
-    </item>
-    <item>
-      <title>Honda EU2200i Companion Parallel Inverter Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/generator-watt-index/honda-eu2200i-companion-parallel-inverter-wattage-transfer-switch-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/generator-watt-index/honda-eu2200i-companion-parallel-inverter-wattage-transfer-switch-calculator.html</guid>
-      <description>Calculate exact running watts (1,800W gas / 1,620W propane), AC starting surge LRA, 30A transfer switch wire size (10/3 AWG (30-Amp 120V Heavy-Duty Cord)), and fuel runtime for Honda EU2200i Companion Parallel Inverter.</description>
-    </item>
-    <item>
-      <title>Honda EU7000iS Super Quiet Fuel-Injected Inverter Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/generator-watt-index/honda-eu7000is-super-quiet-fuel-injected-inverter-wattage-transfer-switch-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/generator-watt-index/honda-eu7000is-super-quiet-fuel-injected-inverter-wattage-transfer-switch-calculator.html</guid>
-      <description>Calculate exact running watts (5,500W gas / 4,950W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Honda EU7000iS Super Quiet Fuel-Injected Inverter.</description>
     </item>
   </channel>
 </rss>

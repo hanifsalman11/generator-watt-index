@@ -328,5 +328,35 @@
     "peak_w": 9500,
     "ts_amps": 30,
     "date": "2026-10-29"
+  },
+  {
+    "generator_name": "Whole House",
+    "slug": "whole-house-wattage-transfer-switch-calculator",
+    "title": "Whole House Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Whole House.",
+    "run_w": 7400,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-10-30"
+  },
+  {
+    "generator_name": "Ac Unit",
+    "slug": "ac-unit-wattage-transfer-switch-calculator",
+    "title": "Ac Unit Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Ac Unit.",
+    "run_w": 7400,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-10-30"
+  },
+  {
+    "generator_name": "A Camper",
+    "slug": "a-camper-wattage-transfer-switch-calculator",
+    "title": "A Camper Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for A Camper.",
+    "run_w": 7400,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-10-30"
   }
 ]
