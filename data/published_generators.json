@@ -388,5 +388,35 @@
     "peak_w": 9500,
     "ts_amps": 30,
     "date": "2026-10-30"
+  },
+  {
+    "generator_name": "Rv Ac",
+    "slug": "rv-ac-wattage-transfer-switch-calculator",
+    "title": "Rv Ac Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Rv Ac.",
+    "run_w": 7400,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-10-30"
+  },
+  {
+    "generator_name": "Westinghouse Wgen 7500",
+    "slug": "westinghouse-wgen-7500-wattage-transfer-switch-calculator",
+    "title": "Westinghouse Wgen 7500 Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (5,800W gas / 5,220W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Westinghouse Wgen 7500.",
+    "run_w": 5800,
+    "peak_w": 7500,
+    "ts_amps": 30,
+    "date": "2026-10-30"
+  },
+  {
+    "generator_name": "Westinghouse Wgen 9500",
+    "slug": "westinghouse-wgen-9500-wattage-transfer-switch-calculator",
+    "title": "Westinghouse Wgen 9500 Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Westinghouse Wgen 9500.",
+    "run_w": 7400,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-10-30"
   }
 ]
