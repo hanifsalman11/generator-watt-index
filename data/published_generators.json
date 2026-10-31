@@ -478,5 +478,35 @@
     "peak_w": 9500,
     "ts_amps": 30,
     "date": "2026-10-31"
+  },
+  {
+    "generator_name": "Westinghouse Wgen5300Dfv",
+    "slug": "westinghouse-wgen5300dfv-wattage-transfer-switch-calculator",
+    "title": "Westinghouse Wgen5300Dfv Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (4,100W gas / 3,690W propane), AC starting surge LRA, 30A transfer switch wire size (10/3 AWG (30-Amp 120V Heavy-Duty Cord)), and fuel runtime for Westinghouse Wgen5300Dfv.",
+    "run_w": 4100,
+    "peak_w": 5300,
+    "ts_amps": 30,
+    "date": "2026-10-31"
+  },
+  {
+    "generator_name": "Westinghouse Wgen7500Df",
+    "slug": "westinghouse-wgen7500df-wattage-transfer-switch-calculator",
+    "title": "Westinghouse Wgen7500Df Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (5,800W gas / 5,220W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Westinghouse Wgen7500Df.",
+    "run_w": 5800,
+    "peak_w": 7500,
+    "ts_amps": 30,
+    "date": "2026-10-31"
+  },
+  {
+    "generator_name": "Duromax Tri Fuel Generator",
+    "slug": "duromax-tri-fuel-generator-wattage-transfer-switch-calculator",
+    "title": "Duromax Tri Fuel Generator Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Duromax Tri Fuel Generator.",
+    "run_w": 7400,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-10-31"
   }
 ]

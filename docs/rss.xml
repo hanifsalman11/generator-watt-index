@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/generator-watt-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Duromax Tri Fuel Generator Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/generator-watt-index/duromax-tri-fuel-generator-wattage-transfer-switch-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/generator-watt-index/duromax-tri-fuel-generator-wattage-transfer-switch-calculator.html</guid>
+      <description>Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Duromax Tri Fuel Generator.</description>
+    </item>
+    <item>
+      <title>Westinghouse Wgen7500Df Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/generator-watt-index/westinghouse-wgen7500df-wattage-transfer-switch-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/generator-watt-index/westinghouse-wgen7500df-wattage-transfer-switch-calculator.html</guid>
+      <description>Calculate exact running watts (5,800W gas / 5,220W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Westinghouse Wgen7500Df.</description>
+    </item>
+    <item>
+      <title>Westinghouse Wgen5300Dfv Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/generator-watt-index/westinghouse-wgen5300dfv-wattage-transfer-switch-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/generator-watt-index/westinghouse-wgen5300dfv-wattage-transfer-switch-calculator.html</guid>
+      <description>Calculate exact running watts (4,100W gas / 3,690W propane), AC starting surge LRA, 30A transfer switch wire size (10/3 AWG (30-Amp 120V Heavy-Duty Cord)), and fuel runtime for Westinghouse Wgen5300Dfv.</description>
+    </item>
+    <item>
       <title>Westinghouse Wgen 9500 Generator Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/generator-watt-index/westinghouse-wgen-9500-generator-wattage-transfer-switch-calculator.html</link>
       <guid>https://hanifsalman11.github.io/generator-watt-index/westinghouse-wgen-9500-generator-wattage-transfer-switch-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/generator-watt-index/a-ipower-gxs7100ird-7100w-dual-fuel-inverter-wattage-transfer-switch-calculator.html</link>
       <guid>https://hanifsalman11.github.io/generator-watt-index/a-ipower-gxs7100ird-7100w-dual-fuel-inverter-wattage-transfer-switch-calculator.html</guid>
       <description>Calculate exact running watts (5,700W gas / 5,130W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for A-iPower GXS7100iRD 7,100W Dual-Fuel Inverter.</description>
-    </item>
-    <item>
-      <title>Pulsar G12KBN 12,000W Dual-Fuel Home Backup Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/generator-watt-index/pulsar-g12kbn-12000w-dual-fuel-home-backup-wattage-transfer-switch-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/generator-watt-index/pulsar-g12kbn-12000w-dual-fuel-home-backup-wattage-transfer-switch-calculator.html</guid>
-      <description>Calculate exact running watts (9,500W gas / 8,550W propane), AC starting surge LRA, 50A transfer switch wire size (6/3 + 8/1 AWG (50-Amp Heavy-Duty STW Pure Copper Cord)), and fuel runtime for Pulsar G12KBN 12,000W Dual-Fuel Home Backup.</description>
-    </item>
-    <item>
-      <title>Genmax GM10500iETC 10,500W Tri-Fuel Inverter Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/generator-watt-index/genmax-gm10500ietc-10500w-tri-fuel-inverter-wattage-transfer-switch-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/generator-watt-index/genmax-gm10500ietc-10500w-tri-fuel-inverter-wattage-transfer-switch-calculator.html</guid>
-      <description>Calculate exact running watts (8,500W gas / 7,650W propane), AC starting surge LRA, 50A transfer switch wire size (6/3 + 8/1 AWG (50-Amp Heavy-Duty STW Pure Copper Cord)), and fuel runtime for Genmax GM10500iETC 10,500W Tri-Fuel Inverter.</description>
-    </item>
-    <item>
-      <title>Genmax GM9000iED 9,000W Dual-Fuel Low-THD Inverter Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/generator-watt-index/genmax-gm9000ied-9000w-dual-fuel-low-thd-inverter-wattage-transfer-switch-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/generator-watt-index/genmax-gm9000ied-9000w-dual-fuel-low-thd-inverter-wattage-transfer-switch-calculator.html</guid>
-      <description>Calculate exact running watts (7,200W gas / 6,480W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Genmax GM9000iED 9,000W Dual-Fuel Low-THD Inverter.</description>
     </item>
   </channel>
 </rss>
