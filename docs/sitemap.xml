@@ -276,4 +276,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/generator-watt-index/westinghouse-wgen-5300-wattage-transfer-switch-calculator.html</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/generator-watt-index/westinghouse-wgen-7500-generator-wattage-transfer-switch-calculator.html</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/generator-watt-index/westinghouse-wgen-9500-generator-wattage-transfer-switch-calculator.html</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
 </urlset>
