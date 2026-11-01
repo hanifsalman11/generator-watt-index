@@ -538,5 +538,35 @@
     "peak_w": 9500,
     "ts_amps": 30,
     "date": "2026-11-01"
+  },
+  {
+    "generator_name": "Duromax Tri Fuel Generator 15000 Watt",
+    "slug": "duromax-tri-fuel-generator-15000-watt-wattage-transfer-switch-calculator",
+    "title": "Duromax Tri Fuel Generator 15000 Watt Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (11,700W gas / 10,530W propane), AC starting surge LRA, 50A transfer switch wire size (6/3 + 8/1 AWG (50-Amp Heavy-Duty STW Pure Copper Cord)), and fuel runtime for Duromax Tri Fuel Generator 15000 Watt.",
+    "run_w": 11700,
+    "peak_w": 15000,
+    "ts_amps": 50,
+    "date": "2026-11-01"
+  },
+  {
+    "generator_name": "Duromax Tri Fuel",
+    "slug": "duromax-tri-fuel-wattage-transfer-switch-calculator",
+    "title": "Duromax Tri Fuel Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Duromax Tri Fuel.",
+    "run_w": 7400,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-11-01"
+  },
+  {
+    "generator_name": "Duromax Tri Fuel 13000",
+    "slug": "duromax-tri-fuel-13000-wattage-transfer-switch-calculator",
+    "title": "Duromax Tri Fuel 13000 Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (10,100W gas / 9,090W propane), AC starting surge LRA, 50A transfer switch wire size (6/3 + 8/1 AWG (50-Amp Heavy-Duty STW Pure Copper Cord)), and fuel runtime for Duromax Tri Fuel 13000.",
+    "run_w": 10100,
+    "peak_w": 13000,
+    "ts_amps": 50,
+    "date": "2026-11-01"
   }
 ]
