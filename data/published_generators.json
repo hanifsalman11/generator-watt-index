@@ -508,5 +508,35 @@
     "peak_w": 9500,
     "ts_amps": 30,
     "date": "2026-10-31"
+  },
+  {
+    "generator_name": "A Whole House",
+    "slug": "a-whole-house-wattage-transfer-switch-calculator",
+    "title": "A Whole House Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for A Whole House.",
+    "run_w": 7400,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-11-01"
+  },
+  {
+    "generator_name": "Duromax Tri Fuel Inverter Generator",
+    "slug": "duromax-tri-fuel-inverter-generator-wattage-transfer-switch-calculator",
+    "title": "Duromax Tri Fuel Inverter Generator Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Duromax Tri Fuel Inverter Generator.",
+    "run_w": 7400,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-11-01"
+  },
+  {
+    "generator_name": "Duromax Tri Fuel Generator Reviews",
+    "slug": "duromax-tri-fuel-generator-reviews-wattage-transfer-switch-calculator",
+    "title": "Duromax Tri Fuel Generator Reviews Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Duromax Tri Fuel Generator Reviews.",
+    "run_w": 7400,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-11-01"
   }
 ]
