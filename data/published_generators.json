@@ -628,5 +628,35 @@
     "peak_w": 9500,
     "ts_amps": 30,
     "date": "2026-11-02"
+  },
+  {
+    "generator_name": "A Refrigerator",
+    "slug": "a-refrigerator-wattage-transfer-switch-calculator",
+    "title": "A Refrigerator Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for A Refrigerator.",
+    "run_w": 7400,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-11-04"
+  },
+  {
+    "generator_name": "Air Conditioner",
+    "slug": "air-conditioner-wattage-transfer-switch-calculator",
+    "title": "Air Conditioner Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Air Conditioner.",
+    "run_w": 7400,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-11-04"
+  },
+  {
+    "generator_name": "A 50 Amp Camper",
+    "slug": "a-50-amp-camper-wattage-transfer-switch-calculator",
+    "title": "A 50 Amp Camper Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for A 50 Amp Camper.",
+    "run_w": 7400,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-11-04"
   }
 ]
