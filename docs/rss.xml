@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/generator-watt-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Central Air Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/generator-watt-index/central-air-wattage-transfer-switch-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/generator-watt-index/central-air-wattage-transfer-switch-calculator.html</guid>
+      <description>Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Central Air.</description>
+    </item>
+    <item>
+      <title>A Sump Pump Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/generator-watt-index/a-sump-pump-wattage-transfer-switch-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/generator-watt-index/a-sump-pump-wattage-transfer-switch-calculator.html</guid>
+      <description>Calculate exact running vs starting surge watts, 30A/50A transfer switch wire gauge, and gas/propane consumption for A Sump Pump.</description>
+    </item>
+    <item>
+      <title>Sump Pump And Refrigerator Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/generator-watt-index/sump-pump-and-refrigerator-wattage-transfer-switch-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/generator-watt-index/sump-pump-and-refrigerator-wattage-transfer-switch-calculator.html</guid>
+      <description>Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Sump Pump And Refrigerator.</description>
+    </item>
+    <item>
       <title>A 50 Amp Camper Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/generator-watt-index/a-50-amp-camper-wattage-transfer-switch-calculator.html</link>
       <guid>https://hanifsalman11.github.io/generator-watt-index/a-50-amp-camper-wattage-transfer-switch-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/generator-watt-index/rv-ac-wattage-transfer-switch-calculator.html</link>
       <guid>https://hanifsalman11.github.io/generator-watt-index/rv-ac-wattage-transfer-switch-calculator.html</guid>
       <description>Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Rv Ac.</description>
-    </item>
-    <item>
-      <title>A Welder Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/generator-watt-index/a-welder-wattage-transfer-switch-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/generator-watt-index/a-welder-wattage-transfer-switch-calculator.html</guid>
-      <description>Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for A Welder.</description>
-    </item>
-    <item>
-      <title>Furnace And Refrigerator Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/generator-watt-index/furnace-and-refrigerator-wattage-transfer-switch-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/generator-watt-index/furnace-and-refrigerator-wattage-transfer-switch-calculator.html</guid>
-      <description>Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Furnace And Refrigerator.</description>
-    </item>
-    <item>
-      <title>A Well Pump Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/generator-watt-index/a-well-pump-wattage-transfer-switch-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/generator-watt-index/a-well-pump-wattage-transfer-switch-calculator.html</guid>
-      <description>Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for A Well Pump.</description>
     </item>
   </channel>
 </rss>

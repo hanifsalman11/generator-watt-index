@@ -658,5 +658,35 @@
     "peak_w": 9500,
     "ts_amps": 30,
     "date": "2026-11-04"
+  },
+  {
+    "generator_name": "Sump Pump And Refrigerator",
+    "slug": "sump-pump-and-refrigerator-wattage-transfer-switch-calculator",
+    "title": "Sump Pump And Refrigerator Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Sump Pump And Refrigerator.",
+    "run_w": 7400,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-11-05"
+  },
+  {
+    "generator_name": "A Sump Pump",
+    "slug": "a-sump-pump-wattage-transfer-switch-calculator",
+    "title": "A Sump Pump Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running vs starting surge watts, 30A/50A transfer switch wire gauge, and gas/propane consumption for A Sump Pump.",
+    "run_w": 7400,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-11-05"
+  },
+  {
+    "generator_name": "Central Air",
+    "slug": "central-air-wattage-transfer-switch-calculator",
+    "title": "Central Air Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Central Air.",
+    "run_w": 7400,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-11-05"
   }
 ]
