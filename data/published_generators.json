@@ -718,5 +718,15 @@
     "peak_w": 5500,
     "ts_amps": 30,
     "date": "2026-11-06"
+  },
+  {
+    "generator_name": "Westinghouse Wgen 10500 Tfc",
+    "slug": "westinghouse-wgen-10500-tfc-wattage-transfer-switch-calculator",
+    "title": "Westinghouse Wgen 10500 Tfc Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (8,200W gas / 7,380W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Westinghouse Wgen 10500 Tfc.",
+    "run_w": 8200,
+    "peak_w": 10500,
+    "ts_amps": 30,
+    "date": "2026-11-06"
   }
 ]
