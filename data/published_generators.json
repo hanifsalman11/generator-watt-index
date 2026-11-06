@@ -708,5 +708,15 @@
     "peak_w": 5500,
     "ts_amps": 30,
     "date": "2026-11-05"
+  },
+  {
+    "generator_name": "Westinghouse Wgen 5500 Generator",
+    "slug": "westinghouse-wgen-5500-generator-wattage-transfer-switch-calculator",
+    "title": "Westinghouse Wgen 5500 Generator Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (4,300W gas / 3,870W propane), AC starting surge LRA, 30A transfer switch wire size (10/3 AWG (30-Amp 120V Heavy-Duty Cord)), and fuel runtime for Westinghouse Wgen 5500 Generator.",
+    "run_w": 4300,
+    "peak_w": 5500,
+    "ts_amps": 30,
+    "date": "2026-11-06"
   }
 ]
