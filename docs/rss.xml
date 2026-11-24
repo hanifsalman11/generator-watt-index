@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/generator-watt-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Duromax Tri Fuel Portable Generator Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/generator-watt-index/duromax-tri-fuel-portable-generator-wattage-transfer-switch-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/generator-watt-index/duromax-tri-fuel-portable-generator-wattage-transfer-switch-calculator.html</guid>
+      <description>Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Duromax Tri Fuel Portable Generator.</description>
+    </item>
+    <item>
       <title>Westinghouse Wgen 10500 Tfc Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/generator-watt-index/westinghouse-wgen-10500-tfc-wattage-transfer-switch-calculator.html</link>
       <guid>https://hanifsalman11.github.io/generator-watt-index/westinghouse-wgen-10500-tfc-wattage-transfer-switch-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/generator-watt-index/westinghouse-wgen-11500tfc-wattage-transfer-switch-calculator.html</link>
       <guid>https://hanifsalman11.github.io/generator-watt-index/westinghouse-wgen-11500tfc-wattage-transfer-switch-calculator.html</guid>
       <description>Calculate exact running watts (9,000W gas / 8,100W propane), AC starting surge LRA, 50A transfer switch wire size (6/3 + 8/1 AWG (50-Amp Heavy-Duty STW Pure Copper Cord)), and fuel runtime for Westinghouse Wgen 11500Tfc.</description>
-    </item>
-    <item>
-      <title>Westinghouse Wgen 3600 Wattage, Transfer Switch & Fuel Burn Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/generator-watt-index/westinghouse-wgen-3600-wattage-transfer-switch-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/generator-watt-index/westinghouse-wgen-3600-wattage-transfer-switch-calculator.html</guid>
-      <description>Calculate exact running watts (2,800W gas / 2,520W propane), AC starting surge LRA, 30A transfer switch wire size (10/3 AWG (30-Amp 120V Heavy-Duty Cord)), and fuel runtime for Westinghouse Wgen 3600.</description>
     </item>
   </channel>
 </rss>
