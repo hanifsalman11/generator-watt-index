@@ -738,5 +738,35 @@
     "peak_w": 9500,
     "ts_amps": 30,
     "date": "2026-11-24"
+  },
+  {
+    "generator_name": "Well Pump And Refrigerator",
+    "slug": "well-pump-and-refrigerator-wattage-transfer-switch-calculator",
+    "title": "Well Pump And Refrigerator Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Well Pump And Refrigerator.",
+    "run_w": 7400,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-11-25"
+  },
+  {
+    "generator_name": "A Furnace",
+    "slug": "a-furnace-wattage-transfer-switch-calculator",
+    "title": "A Furnace Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running vs starting surge watts, 30A/50A transfer switch wire gauge, and gas/propane consumption for A Furnace.",
+    "run_w": 7400,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-11-25"
+  },
+  {
+    "generator_name": "Westinghouse Wgen 9500Dfc",
+    "slug": "westinghouse-wgen-9500dfc-wattage-transfer-switch-calculator",
+    "title": "Westinghouse Wgen 9500Dfc Wattage, Transfer Switch & Fuel Burn Calculator (2026)",
+    "description": "Calculate exact running watts (7,400W gas / 6,660W propane), AC starting surge LRA, 30A transfer switch wire size (10/4 AWG (30-Amp SJTW/STW Pure Copper Cord)), and fuel runtime for Westinghouse Wgen 9500Dfc.",
+    "run_w": 7400,
+    "peak_w": 9500,
+    "ts_amps": 30,
+    "date": "2026-11-25"
   }
 ]
